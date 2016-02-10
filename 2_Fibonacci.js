@@ -7,7 +7,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed
 four million, find the sum of the even-valued terms.
 */
 
-//Declare Variables
+//Declare Variables:
 var target=prompt("Do not exceed (Original is 4000000):");
 //Start the Sequence
 var sequence=[1,2];
